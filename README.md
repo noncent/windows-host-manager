@@ -1,6 +1,10 @@
 # Windows-Host-Manager
 Windows Host Manager is a Batch tool to add entries in host file
 
+## Description:
+
+Windows Host Manager is a batch file to add host entries via windows command promp. Simple download the batch file and run, You will see a confirmation & after that you will be asked to add IP and after HOST e.g. IP : 123.45.43.23 HOST: www.mysite.com. Thats' it.
+
 ## Start Copy From Here
 
 ```batch
